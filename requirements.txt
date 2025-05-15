@@ -1,0 +1,8 @@
+pytesseract
+pdf2image
+pillow
+sumy
+pandas
+tk
+python-docx
+opencv-python
