@@ -1,0 +1,6 @@
+# Exclure les fichiers générés
+.env/
+__pycache__/
+*.pyc
+output/
+log_documents.csv
